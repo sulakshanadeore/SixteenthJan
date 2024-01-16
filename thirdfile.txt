@@ -1,1 +1,2 @@
-Again a file
+Again a file.
+Making a change
